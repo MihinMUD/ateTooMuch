@@ -1,6 +1,6 @@
 # Ate too much!?
 
-Is a game where you the player move left and right trying to catch the falling apples from sky (heave??). 3 misses and you are out!
+Is a game where you the player move left and right trying to catch the falling apples from sky (haven??). 3 misses and you are out!
 
 ## More info
 
